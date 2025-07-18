@@ -73,9 +73,3 @@ This project is for educational use only. No commercial license is granted. If y
 - OpenCV and its documentation
 - NumPy, Pandas, and Matplotlib communities
 - [Kaggle Color Dataset](https://www.kaggle.com/datasets/)
-
-## Author
-- **U. Sai Harika**
-- Roll No: 160122771086
-- Section: AI&DS-I2
-- Subject Code: 22ADE25
